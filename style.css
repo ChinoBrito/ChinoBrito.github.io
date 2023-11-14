@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+   }
+   header{
+   text-align: center;
+   border-radius: 20px;
+   border: solid 5px black;
+   }
+   h2 {
+    text-align: center;
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 5%;
+    border: solid 5px black;
+   }
+   span {
+   color: blue;
+   }
+   .salidas {
+    color: darkorchid;
+   }
+   #juli {
+   color: purple;
+   }
+   .chegus {
+   font-style: italic;
+   text-align: center;
+   font-size: 25px;
+   }
+   .cafe {
+   font-family: Courier New;
+   font-size: 25px;
+   text-align: center;
+   }
+   p {
+    position: relative;
+    top: 5px;
+    border: 2px solid lightblue;
+    background-color: lightblue;
+   }
+   .lugar {
+   border: solid 2px blue;
+   text-align: center;
+   font-size: 30px;
+   }   
